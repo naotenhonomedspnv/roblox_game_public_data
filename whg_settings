@@ -1,4 +1,4 @@
-local default_data = {
+return {
 	player_speed = 4,
 	hitbox_size_mul = 1,
 	player_color = Color3.fromRGB(150, 0, 0)
